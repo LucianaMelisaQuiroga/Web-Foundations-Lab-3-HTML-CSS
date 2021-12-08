@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #0A2FF1;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+}  
+
+div {
+    background-color: white;
+}
+
+h1, h2 {
+    font-weight: 900; 
+}
+
+h4, #descuento, span, p {
+    color: #0A2FF1;
+}
+
+h1, #porcentaje {
+    background-color: black; 
+    color: white;
+}
+
+h4 {
+    font-size: 67.08px;
+}
+
+h1 {
+    font-size: 197.12px;
+}
+
+h2 {
+    font-size: 217.78px;
+}
+
+span, p {
+    font-weight: 600;
+    font-size: 58.85px;
+}
+
+#descuento, span {
+    font-size: 48px;
+}
+
+strong {
+    font-size: 60px;
+} 
+
+/*CONVERTIR DE PT A PX:  
+23 NOVIEMBRE montserrat black  50.31pt == 67.08px #0A2FF1
+BLACK montserrat black 147.84pt == 197.12px
+FRIDAY montserrat black 163.34pt == 217.78px
+DESCUENTOS montserrat black 36pt == 48px #0A2FF1
+DE HASTA EL montserrat semibold 36pt == 48px #0A2FF1
+50% montserrat black 45pt == 60px
+¡NO TE LO PIERDAS! montserrat semibold 44,14pt == 58.85px #0A2FF1
+https://pixelsconverter.com/pt-to-px*/ 
