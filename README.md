@@ -5,7 +5,7 @@
 En este laboratorio practico lo aprendido. <br> 
 Recibí el requerimiento y lo realicé en HTML y CSS. 
 
-#### Mi Resultado: 
+#### Mi Resultado: https://drive.google.com/file/d/1KVJTg4-aoAe2kTMN5xxXQeC2iwIajYjt/view?usp=sharing 
 Para identificar el color azúl, al no tener el requerimiento especificado, utilicé como herramienta a la aplicación color picker "Color Cop" http://colorcop.net
 
 #### Requerimiento y Consigna:
